@@ -41,3 +41,6 @@
 [submodule "Action-Crypto"]
 	path = Action-Crypto
 	url = git@github.com:LightJason/Action-Crypto.git
+[submodule "Action-Interpolate"]
+	path = Action-Interpolate
+	url = git@github.com:LightJason/Action-Interpolate.git
