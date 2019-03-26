@@ -31,3 +31,7 @@
 [submodule "Action-Bool"]
 	path = Action-Bool
 	url = git@github.com:LightJason/Action-Bool.git
+[submodule "AgentSpeak-Java"]
+	path = AgentSpeak-Java
+	url = git@github.com:LightJason/AgentSpeak-Java.git
+	branch = developing
