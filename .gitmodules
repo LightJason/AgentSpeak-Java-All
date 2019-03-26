@@ -35,3 +35,6 @@
 	path = AgentSpeak-Java
 	url = git@github.com:LightJason/AgentSpeak-Java.git
 	branch = developing
+[submodule "Action-Storage"]
+	path = Action-Storage
+	url = git@github.com:LightJason/Action-Storage.git
