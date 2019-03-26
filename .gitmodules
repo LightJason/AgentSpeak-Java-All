@@ -38,3 +38,6 @@
 [submodule "Action-Storage"]
 	path = Action-Storage
 	url = git@github.com:LightJason/Action-Storage.git
+[submodule "Action-Crypto"]
+	path = Action-Crypto
+	url = git@github.com:LightJason/Action-Crypto.git
