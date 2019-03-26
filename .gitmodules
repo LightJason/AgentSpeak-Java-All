@@ -31,3 +31,6 @@
 [submodule "Action-Agent"]
 	path = Action-Agent
 	url = git@github.com:LightJason/Action-Agent.git
+[submodule "Action-Bool"]
+	path = Action-Bool
+	url = git@github.com:LightJason/Action-Bool.git
