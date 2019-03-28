@@ -56,3 +56,6 @@
 [submodule "Action-Shape"]
 	path = Action-Shape
 	url = git@github.com:LightJason/Action-Shape.git
+[submodule "Action-String"]
+	path = Action-String
+	url = git@github.com:LightJason/Action-String.git
