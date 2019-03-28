@@ -44,3 +44,6 @@
 [submodule "Action-Interpolate"]
 	path = Action-Interpolate
 	url = git@github.com:LightJason/Action-Interpolate.git
+[submodule "Action-Statistic"]
+	path = Action-Statistic
+	url = git@github.com:LightJason/Action-Statistic.git
