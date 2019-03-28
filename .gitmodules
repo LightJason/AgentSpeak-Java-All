@@ -47,3 +47,9 @@
 [submodule "Action-Statistic"]
 	path = Action-Statistic
 	url = git@github.com:LightJason/Action-Statistic.git
+[submodule "Action-Linearprogram"]
+	path = Action-Linearprogram
+	url = git@github.com:LightJason/Action-Linearprogram.git
+[submodule "Action-Math"]
+	path = Action-Math
+	url = git@github.com:LightJason/Action-Math.git
