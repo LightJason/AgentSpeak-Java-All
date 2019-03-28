@@ -59,3 +59,6 @@
 [submodule "Action-String"]
 	path = Action-String
 	url = git@github.com:LightJason/Action-String.git
+[submodule "Action-Generic"]
+	path = Action-Generic
+	url = git@github.com:LightJason/Action-Generic.git
