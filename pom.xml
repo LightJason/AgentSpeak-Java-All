@@ -1,0 +1,110 @@
+<!--
+
+    ######################################################################################
+    # LGPL License                                                                       #
+    #                                                                                    #
+    # This file is part of the LightJason AgentSpeak(L++)                                #
+    # Copyright (c) 2015-19, LightJason (info@lightjason.org)                            #
+    # This program is free software: you can redistribute it and/or modify               #
+    # it under the terms of the GNU Lesser General Public License as                     #
+    # published by the Free Software Foundation, either version 3 of the                 #
+    # License, or (at your option) any later version.                                    #
+    #                                                                                    #
+    # This program is distributed in the hope that it will be useful,                    #
+    # but WITHOUT ANY WARRANTY; without even the implied warranty of                     #
+    # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the                      #
+    # GNU Lesser General Public License for more details.                                #
+    #                                                                                    #
+    # You should have received a copy of the GNU Lesser General Public License           #
+    # along with this program. If not, see http://www.gnu.org/licenses/                  #
+    ######################################################################################
+
+-->
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.lightjason</groupId>
+    <artifactId>all</artifactId>
+    <packaging>pom</packaging>
+	<version>0.0.1-SNAPSHOT</version>
+
+    <!-- project meta information -->
+    <name>LightJason Java-All</name>
+    <description>All java builds</description>
+    <url>https://github.com/LightJason/Java-All</url>
+
+    <organization>
+        <name>LightJason</name>
+        <url>http://lightjason.org</url>
+    </organization>
+
+    <licenses>
+        <license>
+            <name>GNU Lesser General Public License 3</name>
+            <url>http://www.gnu.org/licenses/lgpl-3.0.en.html</url>
+        </license>
+    </licenses>
+
+    <issueManagement>
+        <system>GitHub Issues</system>
+        <url>https://github.com/LightJason/AgentSpeak/issues</url>
+    </issueManagement>
+
+    <scm>
+        <url>https://github.com/LightJason/AgentSpeak</url>
+        <connection>scm:git:git://github.com:LightJason/AgentSpeak.git</connection>
+        <developerConnection>scm:git:git@github.com:LightJason/AgentSpeak.git</developerConnection>
+        <tag>v0.0.1</tag>
+    </scm>
+
+    <distributionManagement>
+        <snapshotRepository>
+            <id>sonatype-nexus-snapshots</id>
+            <url>https://oss.sonatype.org/content/repositories/snapshots</url>
+        </snapshotRepository>
+        <repository>
+            <id>sonatype-nexus-staging</id>
+            <url>https://oss.sonatype.org/service/local/staging/deploy/maven2/</url>
+        </repository>
+    </distributionManagement>
+
+    <developers>
+        <developer>
+            <id>flashpixx</id>
+            <name>Philipp Kraus</name>
+            <email>philipp@lightjason.org</email>
+            <timezone>Europe/Berlin</timezone>
+            <roles>
+                <role>architect</role>
+                <role>developer</role>
+            </roles>
+        </developer>
+    </developers>
+
+    <contributors>
+        <contributor>
+            <name>Malte Aschermann</name>
+            <email>malte@lightjason.org</email>
+            <timezone>Europe/Berlin</timezone>
+            <roles>
+                <role>testing</role>
+            </roles>
+        </contributor>
+
+        <contributor>
+            <name>Sophie Denissen</name>
+            <email>sophie@lightjason.org</email>
+            <timezone>Europe/Berlin</timezone>
+            <roles>
+                <role>testing</role>
+            </roles>
+        </contributor>
+    </contributors>
+
+
+	<modules>
+        <module>agentspeak-java</module>
+    </modules>
+	
+</project>
