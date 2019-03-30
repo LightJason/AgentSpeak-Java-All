@@ -103,7 +103,7 @@
 
 
 	<modules>
-        <module>Agentspeak-Java</module>
+        <module>Agentspeak</module>
         <module>Action-Generic</module>
         <module>Action-Agent</module>
         <module>Action-Bit</module>
