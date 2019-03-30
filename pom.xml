@@ -104,13 +104,13 @@
 
 	<modules>
         <module>Agentspeak-Java</module>
+        <module>Action-Generic</module>
         <module>Action-Agent</module>
         <module>Action-Bit</module>
-        <!-- <module>Action-Blas</module> -->
+        <module>Action-Blas</module>
         <module>Action-Bool</module>
         <module>Action-Crypto</module>
         <module>Action-Datetime</module>
-        <module>Action-Generic</module>
         <module>Action-Graph</module>
         <module>Action-Grid</module>
         <module>Action-Interpolate</module>
