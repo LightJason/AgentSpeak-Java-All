@@ -3,7 +3,7 @@
     ######################################################################################
     # LGPL License                                                                       #
     #                                                                                    #
-    # This file is part of the LightJason AgentSpeak(L++)                                #
+    # This file is part of the LightJason                                                #
     # Copyright (c) 2015-19, LightJason (info@lightjason.org)                            #
     # This program is free software: you can redistribute it and/or modify               #
     # it under the terms of the GNU Lesser General Public License as                     #
@@ -25,8 +25,8 @@
 
     <groupId>org.lightjason</groupId>
     <artifactId>all</artifactId>
-    <packaging>pom</packaging>
 	<version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
 
     <!-- project meta information -->
     <name>LightJason Java-All</name>
@@ -103,7 +103,27 @@
 
 
 	<modules>
-        <module>agentspeak-java</module>
+        <module>Agentspeak-Java</module>
+        <module>Action-Agent</module>
+        <module>Action-Bit</module>
+        <!-- <module>Action-Blas</module> -->
+        <module>Action-Bool</module>
+        <module>Action-Crypto</module>
+        <module>Action-Datetime</module>
+        <module>Action-Generic</module>
+        <module>Action-Graph</module>
+        <module>Action-Grid</module>
+        <module>Action-Interpolate</module>
+        <module>Action-Linearprogram</module>
+        <module>Action-ListSetTuple</module>
+        <module>Action-Map</module>
+        <module>Action-Math</module>
+        <module>Action-Prolog</module>
+        <module>Action-Shape</module>
+        <module>Action-Statistic</module>
+        <module>Action-Storage</module>
+        <module>Action-String</module>
+        <module>Action-Web</module>
     </modules>
 
     <build>
