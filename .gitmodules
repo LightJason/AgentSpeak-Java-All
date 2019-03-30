@@ -1,64 +1,64 @@
 [submodule "Action-Datetime"]
-	path = Action-Datetime
-	url = git@github.com:LightJason/Action-Datetime.git
+        path = Action-Datetime
+        url = git@github.com:LightJason/Java-Action-Datetime.git
 [submodule "Action-Web"]
-	path = Action-Web
-	url = git@github.com:LightJason/Action-Web.git
+        path = Action-Web
+        url = git@github.com:LightJason/Java-Action-Web.git
 [submodule "Action-ListSetTuple"]
-	path = Action-ListSetTuple
-	url = git@github.com:LightJason/Action-ListSetTuple.git
+        path = Action-ListSetTuple
+        url = git@github.com:LightJason/Java-Action-ListSetTuple.git
 [submodule "Action-Map"]
-	path = Action-Map
-	url = git@github.com:LightJason/Action-Map.git
+        path = Action-Map
+        url = git@github.com:LightJason/Java-Action-Map.git
 [submodule "Action-Bit"]
-	path = Action-Bit
-	url = git@github.com:LightJason/Action-Bit.git
+        path = Action-Bit
+        url = git@github.com:LightJason/Java-Action-Bit.git
 [submodule "Action-Graph"]
-	path = Action-Graph
-	url = git@github.com:LightJason/Action-Graph.git
+        path = Action-Graph
+        url = git@github.com:LightJason/Java-Action-Graph.git
 [submodule "Action-Blas"]
-	path = Action-Blas
-	url = git@github.com:LightJason/Action-Blas.git
+        path = Action-Blas
+        url = git@github.com:LightJason/Java-Action-Blas.git
 [submodule "Action-Prolog"]
-	path = Action-Prolog
-	url = git@github.com:LightJason/Action-Prolog.git
+        path = Action-Prolog
+        url = git@github.com:LightJason/Java-Action-Prolog.git
 [submodule "Action-Grid"]
-	path = Action-Grid
-	url = git@github.com:LightJason/Action-Grid.git
+        path = Action-Grid
+        url = git@github.com:LightJason/Java-Action-Grid.git
 [submodule "Action-Agent"]
-	path = Action-Agent
-	url = git@github.com:LightJason/Action-Agent.git
+        path = Action-Agent
+        url = git@github.com:LightJason/Java-Action-Agent.git
 [submodule "Action-Bool"]
-	path = Action-Bool
-	url = git@github.com:LightJason/Action-Bool.git
-[submodule "AgentSpeak-Java"]
-	path = AgentSpeak-Java
-	url = git@github.com:LightJason/AgentSpeak-Java.git
-	branch = developing
+        path = Action-Bool
+        url = git@github.com:LightJason/Java-Action-Bool.git
+[submodule "AgentSpeak"]
+        path = AgentSpeak
+        url = git@github.com:LightJason/Java-AgentSpeak.git
+        branch = developing
 [submodule "Action-Storage"]
-	path = Action-Storage
-	url = git@github.com:LightJason/Action-Storage.git
+        path = Action-Storage
+        url = git@github.com:LightJason/Java-Action-Storage.git
 [submodule "Action-Crypto"]
-	path = Action-Crypto
-	url = git@github.com:LightJason/Action-Crypto.git
+        path = Action-Crypto
+        url = git@github.com:LightJason/Java-Action-Crypto.git
 [submodule "Action-Interpolate"]
-	path = Action-Interpolate
-	url = git@github.com:LightJason/Action-Interpolate.git
+        path = Action-Interpolate
+        url = git@github.com:LightJason/Java-Action-Interpolate.git
 [submodule "Action-Statistic"]
-	path = Action-Statistic
-	url = git@github.com:LightJason/Action-Statistic.git
+        path = Action-Statistic
+        url = git@github.com:LightJason/Java-Action-Statistic.git
 [submodule "Action-Linearprogram"]
-	path = Action-Linearprogram
-	url = git@github.com:LightJason/Action-Linearprogram.git
+        path = Action-Linearprogram
+        url = git@github.com:LightJason/Java-Action-Linearprogram.git
 [submodule "Action-Math"]
-	path = Action-Math
-	url = git@github.com:LightJason/Action-Math.git
+        path = Action-Math
+        url = git@github.com:LightJason/Java-Action-Math.git
 [submodule "Action-Shape"]
-	path = Action-Shape
-	url = git@github.com:LightJason/Action-Shape.git
+        path = Action-Shape
+        url = git@github.com:LightJason/Java-Action-Shape.git
 [submodule "Action-String"]
-	path = Action-String
-	url = git@github.com:LightJason/Action-String.git
+        path = Action-String
+        url = git@github.com:LightJason/Java-Action-String.git
 [submodule "Action-Generic"]
-	path = Action-Generic
-	url = git@github.com:LightJason/Action-Generic.git
+        path = Action-Generic
+        url = git@github.com:LightJason/Java-Action-Generic.git
