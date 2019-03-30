@@ -58,3 +58,7 @@
 [submodule "Action-Generic"]
         path = Action-Generic
         url = git@github.com:LightJason/Java-Action-Generic.git
+[submodule "AgentSpeak"]
+	path = AgentSpeak
+	url = git@github.com:LightJason/Java-AgentSpeak.git
+	branch = developing
