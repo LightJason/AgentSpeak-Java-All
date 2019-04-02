@@ -24,14 +24,14 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.lightjason</groupId>
-    <artifactId>all</artifactId>
+    <artifactId>devall</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <!-- project meta information -->
-    <name>LightJason Java-All</name>
-    <description>All java builds</description>
-    <url>https://github.com/LightJason/Java-All</url>
+    <name>LightJason Java-Dev-All</name>
+    <description>All Java Developer Elements</description>
+    <url>https://github.com/LightJason/Java-Dev-All</url>
 
     <organization>
         <name>LightJason</name>
@@ -47,13 +47,13 @@
 
     <issueManagement>
         <system>GitHub Issues</system>
-        <url>https://github.com/LightJason/AgentSpeak/issues</url>
+        <url>https://github.com/LightJason/Java-Dev-All/issues</url>
     </issueManagement>
 
     <scm>
-        <url>https://github.com/LightJason/AgentSpeak</url>
-        <connection>scm:git:git://github.com:LightJason/AgentSpeak.git</connection>
-        <developerConnection>scm:git:git@github.com:LightJason/AgentSpeak.git</developerConnection>
+        <url>https://github.com/LightJason/Java-Dev-All</url>
+        <connection>scm:git:git://github.com:LightJason/Java-Dev-All.git</connection>
+        <developerConnection>scm:git:git@github.com:LightJason/Java-Dev-All.git</developerConnection>
         <tag>v0.0.1</tag>
     </scm>
 
