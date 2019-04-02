@@ -1,2 +1,2 @@
-# LightJason - AgentSpeak Java Components
+# LightJason - Java Development Structure
 
