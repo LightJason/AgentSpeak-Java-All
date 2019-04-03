@@ -62,3 +62,6 @@
 	path = AgentSpeak
 	url = git@github.com:LightJason/Java-AgentSpeak.git
 	branch = developing
+[submodule "AgentSpeak-Consistency"]
+	path = AgentSpeak-Consistency
+	url = git@github.com:LightJason/Java-AgentSpeak-Consistency.git
