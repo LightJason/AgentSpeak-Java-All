@@ -104,7 +104,7 @@
 
 	<modules>
         <module>Agentspeak</module>
-        <module>Agentspeak-Consistency</module>
+
         <module>Action-Generic</module>
         <module>Action-Agent</module>
         <module>Action-Bit</module>
@@ -125,6 +125,8 @@
         <module>Action-Storage</module>
         <module>Action-String</module>
         <module>Action-Web</module>
+
+        <module>Agentspeak-Consistency</module>
     </modules>
 
     <build>
