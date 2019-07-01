@@ -126,7 +126,7 @@
         <module>Action-String</module>
         <module>Action-Web</module>
 
-        <module>Agentspeak-Consistency</module>
+        <module>AgentSpeak-Consistency</module>
     </modules>
 
     <build>
