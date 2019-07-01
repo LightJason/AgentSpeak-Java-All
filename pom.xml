@@ -103,7 +103,7 @@
 
 
 	<modules>
-        <module>Agentspeak</module>
+        <module>AgentSpeak</module>
 
         <module>Action-Generic</module>
         <module>Action-Agent</module>
