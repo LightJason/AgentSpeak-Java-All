@@ -1,6 +1,0 @@
-[submodule "Action-Grid"]
-        path = Action-Grid
-        url = git@github.com:LightJason/Java-Action-Grid.git
-[submodule "Action-Linearprogram"]
-        path = Action-Linearprogram
-        url = git@github.com:LightJason/Java-Action-Linearprogram.git
