@@ -103,30 +103,29 @@
 
 
 	<modules>
-        <module>AgentSpeak</module>
+        <module>agentspeak</module>
+        <module>consistency</module>
 
-        <module>Action-Generic</module>
-        <module>Action-Agent</module>
-        <module>Action-Bit</module>
-        <module>Action-Blas</module>
-        <module>Action-Bool</module>
-        <module>Action-Crypto</module>
-        <module>Action-Datetime</module>
-        <module>Action-Graph</module>
-        <module>Action-Grid</module>
-        <module>Action-Interpolate</module>
-        <module>Action-Linearprogram</module>
-        <module>Action-ListSetTuple</module>
-        <module>Action-Map</module>
-        <module>Action-Math</module>
-        <module>Action-Prolog</module>
-        <module>Action-Shape</module>
-        <module>Action-Statistic</module>
-        <module>Action-Storage</module>
-        <module>Action-String</module>
-        <module>Action-Web</module>
-
-        <module>AgentSpeak-Consistency</module>
+        <module>actions/generic</module>
+        <module>actions/agent</module>
+        <module>actions/bit</module>
+        <module>actions/blas</module>
+        <module>actions/bool</module>
+        <module>actions/crypto</module>
+        <module>actions/datetime</module>
+        <module>actions/graph</module>
+        <module>actions/grid</module>
+        <module>actions/interpolate</module>
+        <module>actions/linearprogram</module>
+        <module>actions/listsettuple</module>
+        <module>actions/map</module>
+        <module>actions/math</module>
+        <module>actions/prolog</module>
+        <module>actions/shape</module>
+        <module>actions/statistic</module>
+        <module>actions/storage</module>
+        <module>actions/string</module>
+        <module>actions/web</module>
     </modules>
 
     <build>

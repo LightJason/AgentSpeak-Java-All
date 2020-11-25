@@ -46,3 +46,24 @@
 [submodule "actions/generic"]
 	path = actions/generic
 	url = git@github.com:LightJason/Java-Action-Generic.git
+[submodule "actions/prolog"]
+	path = actions/prolog
+	url = git@github.com:LightJason/Java-Action-Prolog.git
+[submodule "actions/grid"]
+	path = actions/grid
+	url = git@github.com:LightJason/Java-Action-Grid.git
+[submodule "actions/agent"]
+	path = actions/agent
+	url = git@github.com:LightJason/Java-Action-Agent.git
+[submodule "actions/bool"]
+	path = actions/bool
+	url = git@github.com:LightJason/Java-Action-Bool.git
+[submodule "actions/storage"]
+	path = actions/storage
+	url = git@github.com:LightJason/Java-Action-Storage.git
+[submodule "agentspeak"]
+	path = agentspeak
+	url = git@github.com:LightJason/Java-AgentSpeak.git
+[submodule "consistency"]
+	path = consistency
+	url = git@github.com:LightJason/Java-AgentSpeak-Consistency.git
