@@ -1,0 +1,57 @@
+[submodule "actions/datetime"]
+	path = actions/datetime
+	url = git@github.com:LightJason/Java-Action-Datetime.git
+[submodule "actions/web"]
+	path = actions/web
+	url = git@github.com:LightJason/Java-Action-Web.git
+[submodule "actions/listsettuple"]
+	path = actions/listsettuple
+	url = git@github.com:LightJason/Java-Action-ListSetTuple.git
+[submodule "actions/map"]
+	path = actions/map
+	url = git@github.com:LightJason/Java-Action-Map.git
+[submodule "actions/bit"]
+	path = actions/bit
+	url = git@github.com:LightJason/Java-Action-Bit.git
+[submodule "actions/graph"]
+	path = actions/graph
+	url = git@github.com:LightJason/Java-Action-Graph.git
+[submodule "actions/blas"]
+	path = actions/blas
+	url = git@github.com:LightJason/Java-Action-Blas.git
+[submodule "action/prolog"]
+	path = action/prolog
+	url = git@github.com:LightJason/Java-Action-Prolog.git
+[submodule "action/grid"]
+	path = action/grid
+	url = git@github.com:LightJason/Java-Action-Grid.git
+[submodule "action/agent"]
+	path = action/agent
+	url = git@github.com:LightJason/Java-Action-Agent.git
+[submodule "actionstorage"]
+	path = actionstorage
+	url = git@github.com:LightJason/Java-Action-Storage.git
+[submodule "actions/crypto"]
+	path = actions/crypto
+	url = git@github.com:LightJason/Java-Action-Crypto.git
+[submodule "actions/interpolate"]
+	path = actions/interpolate
+	url = git@github.com:LightJason/Java-Action-Interpolate.git
+[submodule "actions/statistic"]
+	path = actions/statistic
+	url = git@github.com:LightJason/Java-Action-Statistic.git
+[submodule "actions/linearprogram"]
+	path = actions/linearprogram
+	url = git@github.com:LightJason/Java-Action-Linearprogram.git
+[submodule "actions/math"]
+	path = actions/math
+	url = git@github.com:LightJason/Java-Action-Math.git
+[submodule "actions/shape"]
+	path = actions/shape
+	url = git@github.com:LightJason/Java-Action-Shape.git
+[submodule "actions/string"]
+	path = actions/string
+	url = git@github.com:LightJason/Java-Action-String.git
+[submodule "actions/generic"]
+	path = actions/generic
+	url = git@github.com:LightJason/Java-Action-Generic.git
