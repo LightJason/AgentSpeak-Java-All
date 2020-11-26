@@ -67,3 +67,6 @@
 [submodule "consistency"]
 	path = consistency
 	url = git@github.com:LightJason/Java-AgentSpeak-Consistency.git
+[submodule "testing"]
+	path = testing
+	url = git@github.com:LightJason/Java-Testing.git
