@@ -19,9 +19,6 @@
 [submodule "actions/blas"]
 	path = actions/blas
 	url = git@github.com:LightJason/Java-Action-Blas.git
-[submodule "actionstorage"]
-	path = actionstorage
-	url = git@github.com:LightJason/Java-Action-Storage.git
 [submodule "actions/crypto"]
 	path = actions/crypto
 	url = git@github.com:LightJason/Java-Action-Crypto.git
