@@ -107,6 +107,7 @@
         <module>consistency</module>
 
         <module>actions/generic</module>
+        <!--
         <module>actions/agent</module>
         <module>actions/bit</module>
         <module>actions/blas</module>
@@ -126,6 +127,7 @@
         <module>actions/storage</module>
         <module>actions/string</module>
         <module>actions/web</module>
+        -->
     </modules>
 
     <build>
