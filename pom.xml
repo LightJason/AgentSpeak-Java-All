@@ -109,10 +109,9 @@
         <module>actions/generic</module>
         <module>actions/agent</module>
         <module>actions/bit</module>
-
+        <module>actions/blas</module>
         <module>actions/bool</module>
 <!--
-<module>actions/blas</module>
 <module>actions/crypto</module>
 <module>actions/datetime</module>
 <module>actions/graph</module>
