@@ -107,27 +107,28 @@
         <module>consistency</module>
 
         <module>actions/generic</module>
-        <!--
         <module>actions/agent</module>
         <module>actions/bit</module>
-        <module>actions/blas</module>
+
         <module>actions/bool</module>
-        <module>actions/crypto</module>
-        <module>actions/datetime</module>
-        <module>actions/graph</module>
-        <module>actions/grid</module>
-        <module>actions/interpolate</module>
-        <module>actions/linearprogram</module>
-        <module>actions/listsettuple</module>
-        <module>actions/map</module>
-        <module>actions/math</module>
-        <module>actions/prolog</module>
-        <module>actions/shape</module>
-        <module>actions/statistic</module>
-        <module>actions/storage</module>
-        <module>actions/string</module>
-        <module>actions/web</module>
-        -->
+<!--
+<module>actions/blas</module>
+<module>actions/crypto</module>
+<module>actions/datetime</module>
+<module>actions/graph</module>
+<module>actions/grid</module>
+<module>actions/interpolate</module>
+<module>actions/linearprogram</module>
+<module>actions/listsettuple</module>
+<module>actions/map</module>
+<module>actions/math</module>
+<module>actions/prolog</module>
+<module>actions/shape</module>
+<module>actions/statistic</module>
+<module>actions/storage</module>
+<module>actions/string</module>
+<module>actions/web</module>
+-->
     </modules>
 
     <build>
