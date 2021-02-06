@@ -97,8 +97,8 @@
         <module>actions/grid</module>
         <module>actions/interpolate</module>
         <module>actions/linearprogram</module>
+        <module>actions/listsettuple</module>
 <!--
-<module>actions/listsettuple</module>
 <module>actions/map</module>
 <module>actions/math</module>
 <module>actions/prolog</module>
