@@ -94,8 +94,8 @@
         <module>actions/crypto</module>
         <module>actions/datetime</module>
         <module>actions/graph</module>
+        <module>actions/grid</module>
 <!--
-<module>actions/grid</module>
 <module>actions/interpolate</module>
 <module>actions/linearprogram</module>
 <module>actions/listsettuple</module>
