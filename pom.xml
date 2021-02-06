@@ -100,8 +100,8 @@
         <module>actions/listsettuple</module>
         <module>actions/map</module>
         <module>actions/math</module>
+        <module>actions/prolog</module>
 <!--
-<module>actions/prolog</module>
 <module>actions/shape</module>
 <module>actions/statistic</module>
 <module>actions/storage</module>
