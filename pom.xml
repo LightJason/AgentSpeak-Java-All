@@ -102,8 +102,8 @@
         <module>actions/math</module>
         <module>actions/prolog</module>
         <module>actions/shape</module>
+        <module>actions/statistic</module>
 <!--
-<module>actions/statistic</module>
 <module>actions/storage</module>
 <module>actions/string</module>
 <module>actions/web</module>
