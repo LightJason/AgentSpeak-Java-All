@@ -104,8 +104,8 @@
         <module>actions/shape</module>
         <module>actions/statistic</module>
         <module>actions/storage</module>
+        <module>actions/string</module>
 <!--
-<module>actions/string</module>
 <module>actions/web</module>
 -->
     </modules>
